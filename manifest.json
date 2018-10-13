@@ -1,7 +1,7 @@
 {
     "dir": "ltr",
     "lang": "Korean",
-    "name": "개인 메모 정리",
+    "name": "개인메모",
     "scope": "/memo/index.html",
     "display": "browser",
     "start_url": "https://junho429.github.io/memo/index.html",
