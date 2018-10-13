@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "Korean",
+    "name": "개인 메모 정리",
+    "scope": "/memo/index.html",
+    "display": "browser",
+    "start_url": "https://junho429.github.io/memo/index.html",
+    "short_name": "Personal memo",
+    "theme_color": "transparent",
+    "description": "개인 메모를 정리하는 사이트입니다.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
